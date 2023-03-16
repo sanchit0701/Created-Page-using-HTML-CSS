@@ -1,0 +1,43 @@
+#div11
+{
+    width: 100%;
+    height: 400px;
+    background-color:grey;
+    margin-bottom: 0%;
+}
+
+#div12
+{
+    border: 1px;
+    padding:5px 5px 5px 5px;
+    float: left;
+    width: 47%;
+    height: 100%;
+}
+#div14
+{
+    border: 1px;
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#div13
+{border: 1px;
+    float: right;
+    width: 25%;
+    height: 100%;
+}
+
+.c
+{
+    color: white;
+    
+}
+a:hover
+{
+    cursor: all-scroll;
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+}

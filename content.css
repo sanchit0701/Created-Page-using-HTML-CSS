@@ -1,0 +1,93 @@
+.h:hover{
+    cursor: pointer;
+    color: blue;
+}
+
+    #a1
+{ 
+    float: left;
+    text-align: center;
+    border-collapse: collapse;
+    width: 40% ;
+    height: 39px;
+ 
+    padding-top: 6px;
+    margin: 0%;
+}
+.w{
+    width: 65%;
+}
+.pad{
+
+    padding-right: 20px;
+}
+#a2{
+    padding-top: 6px;
+    padding-right: 20px;
+    text-align: center;
+    float:right;
+    border: 2px;
+    width: 50%;
+    height: 45px;
+
+}
+#b1{
+    float: left;
+    width: 28%;
+    text-align: center;
+    padding-top: 0px;
+}
+#b2{
+    font-size: 20px;
+    color: whitesmoke;
+    padding-top: 30px;
+    float: right;
+    border: 2px;
+    height: 15px;
+    width: 65%;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+#c1{
+    height: 30%;
+    
+    text-align: center;
+}
+#c2{
+    
+    height: 50%;
+    padding-left: 15%;
+    padding-right: 15%;
+    width: 100%;
+}
+.ic{
+    transition: transform .2s;
+    margin-right: 30px;
+    float: left;
+    text-align: center;
+    width: 15%;
+}
+.i:hover{
+    color: blue;
+    cursor: pointer;
+    transform: scale(1.5);
+}
+
+#d1{
+    border-radius: 100%;
+    height: 100%;
+    border: 1px solid black;
+    margin-right: 4%;
+    float: left;
+    background-color: aliceblue;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right: 4%;
+    width: 10%;
+    text-align: center;
+    transition: transform .2s;
+}
